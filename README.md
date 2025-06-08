@@ -2,6 +2,9 @@
 
 Bachelor thesis - July 2024
 
+![route](https://github.com/user-attachments/assets/4055571f-7789-48d7-84dd-865f5e9a37c8)
+This route represents the shortest path solution computed by our algorithm. It starts and ends in Erzincan, visiting exactly 80 additional cities in Türkiye exactly once — ensuring each city is visited only once and the total travel distance is minimized.
+
 ## Prerequisites
 
 Before you can compile and run this program, make sure you have the following prerequisites installed on your system:
